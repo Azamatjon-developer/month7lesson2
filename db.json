@@ -1,109 +1,67 @@
 {
   "products": [
     {
-      "id": "3dff",
+      "id": "2a26",
       "productName": "Olma",
-      "productPrice": "22111",
-      "productType": "1",
-      "productdate": "2024-08-06T19:00:00.000Z"
+      "productPrice": "23",
+      "productType": "3",
+      "productdate": "2024-08-05T19:00:00.000Z"
     },
     {
-      "id": "b868",
-      "productName": "Olma",
-      "productPrice": "22111",
+      "id": "0bd9",
+      "productName": "Anor",
+      "productPrice": "34",
       "productType": "1",
-      "productdate": "2024-08-06T19:00:00.000Z"
+      "productdate": "2024-08-04T19:00:00.000Z"
     },
     {
-      "id": "8d60",
-      "productName": "Olma",
-      "productPrice": "22111",
+      "id": "54ef",
+      "productName": "Anjir",
+      "productPrice": "23",
       "productType": "1",
-      "productdate": "2024-08-06T19:00:00.000Z"
+      "productdate": "2024-08-05T19:00:00.000Z"
     },
     {
-      "id": "5633",
-      "productName": "Olma",
-      "productPrice": "22111",
-      "productType": "1",
-      "productdate": "2024-08-06T19:00:00.000Z"
+      "id": "f34b",
+      "productName": "Mandarin",
+      "productPrice": "2134",
+      "productType": "3",
+      "productdate": "2024-07-30T19:00:00.000Z"
     },
     {
-      "id": "87df",
-      "productName": "Olma",
-      "productPrice": "22111",
-      "productType": "1",
-      "productdate": "2024-08-06T19:00:00.000Z"
+      "id": "f3aa",
+      "productName": "tarvuz",
+      "productPrice": "234",
+      "productType": "2",
+      "productdate": "2024-08-05T19:00:00.000Z"
     },
     {
-      "id": "e194",
-      "productName": "Olma",
-      "productPrice": "123",
+      "id": "7ab0",
+      "productName": "Xurmo",
+      "productPrice": "2134",
       "productType": "1",
+      "productdate": "2024-08-05T19:00:00.000Z"
+    },
+    {
+      "id": "9637",
+      "productName": "Behi",
+      "productPrice": "234",
+      "productType": "3",
       "productdate": "2024-08-21T19:00:00.000Z"
     },
     {
-      "id": "3f6f",
-      "productName": "Anor",
-      "productPrice": "1234",
-      "productType": "1",
-      "productdate": "2024-08-14T19:00:00.000Z"
+      "id": "3da6",
+      "productName": "banan",
+      "productPrice": "3234",
+      "productType": "2",
+      "productdate": "2024-08-05T19:00:00.000Z"
     },
     {
-      "id": "d201",
-      "productName": "Anor",
-      "productPrice": "1234",
-      "productType": "1",
-      "productdate": "2024-08-14T19:00:00.000Z"
-    },
-    {
-      "id": "7a64",
-      "productName": "Anor",
-      "productPrice": "1234",
-      "productType": "1",
-      "productdate": "2024-08-14T19:00:00.000Z"
-    },
-    {
-      "id": "feef",
-      "productName": "Anor",
-      "productPrice": "1234",
-      "productType": "1",
-      "productdate": "2024-08-14T19:00:00.000Z"
-    },
-    {
-      "id": "86a0",
-      "productName": "Anor",
-      "productPrice": "1234",
-      "productType": "1",
-      "productdate": "2024-08-14T19:00:00.000Z"
-    },
-    {
-      "id": "12f3",
-      "productName": "Anor",
-      "productPrice": "1234",
-      "productType": "1",
-      "productdate": "2024-08-14T19:00:00.000Z"
-    },
-    {
-      "id": "850b",
-      "productName": "Anor",
-      "productPrice": "",
-      "productType": "",
-      "productdate": ""
-    },
-    {
-      "id": "7fec",
-      "productName": "Olma",
-      "productPrice": "",
-      "productType": "1",
-      "productdate": "2024-08-29T19:00:00.000Z"
-    },
-    {
-      "id": "a912",
-      "productName": "sa",
+      "id": "0882",
+      "productName": "zira",
       "productPrice": "2134",
-      "productType": "1",
-      "productdate": "2024-08-08T19:00:00.000Z"
+      "productType": "3",
+      "productdate": "2024-08-11T19:00:00.000Z"
     }
   ]
 }

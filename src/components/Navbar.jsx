@@ -22,11 +22,7 @@ const items = [
             label: <Link to={'/'}>All Products</Link>,
             icon: <FormOutlined />,
           },
-          {
-            key: '2',
-            label: <Link to={'/add-product'}> Add product </Link>,
-            icon: <AppstoreAddOutlined />,
-          },
+          
         ],
       },
     ],
